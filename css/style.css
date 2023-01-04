@@ -1,0 +1,27 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.angker {
+  text-decoration: none;
+}
+
+.angker:hover {
+  text-decoration: underline;
+}
+
+/* Dashboard */
+.content input[type="checkbox"] {
+  width: 1.5rem !important;
+  height: 1.5rem !important;
+}
+
+.card {
+  overflow: hidden;
+}
